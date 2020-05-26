@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# What is this?
 
-You can use the [editor on GitHub](https://github.com/cybercoastleaders/cybercoastleaders.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Every Tuesday at 7:30 we will jump on a call and help each other as entrepreneurs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Cyber Coast Vision
 
-### Markdown
+Everyone here should aim at paying it forward, as VCs, to other founders by 2040.  We're building success stories, an ecosystem, and accessible know-how so that this area is the silicon valley of the east, the Cyber Coast.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Format
 
-```markdown
-Syntax highlighted code block
+Depending on numbers and feedback we'll do 3 rounds and 1 hot-seat.  In a round we each answer the question but minimize cross-talk.  We'll try to keep this brief, while maximizing benefit and accountability.  If the format can be improved let me know.
 
-# Header 1
-## Header 2
-### Header 3
+# Question 1: 
 
-- Bulleted
-- List
+First-timer: Where are you on your journey to VC by 2040?
 
-1. Numbered
-2. List
+Returning: What progress did you make since last week?
 
-**Bold** and _Italic_ and `Code` text
+# Question 2: 
 
-[Link](url) and ![Image](src)
-```
+What one thing will you do this week that will maximize your progress on that journey?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Question 3: 
 
-### Jekyll Themes
+Give some advice, a reference, a contact, or some insight you think will be beneficial to the someone you heard speak today.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cybercoastleaders/cybercoastleaders.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# The Hot-Seat:
 
-### Support or Contact
+One member gets the spotlight, states an opportunity they are working on that they would like to examine.  The other members drill in with questions to help bring out other perspectives, hidden assumptions, etc.  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Join the mailing list for future links
+
+[Mailing List Sign-up](https://mailchi.mp/24a1ec627fb1/cyber-coast-leadership-summit-mailing-list)
